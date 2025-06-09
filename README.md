@@ -49,7 +49,7 @@ Professional, responsive, and fully functional React implementation.
 
 ### Web Version
 
-👉 **[CodeSandbox Demo](https://codesandbox.io/p/sandbox/remwaste-redesign-demo)**
+👉 **[CodeSandbox Demo](https://codesandbox.io/p/github/Elvin-Vincent/REMWaste-Web-Redesign-/main?import=true)**
 
 ### Mobile Testing
 
@@ -103,7 +103,7 @@ Report bugs via [GitHub Issues](https://github.com/Elvin-Vincent/REMWaste-Web-Re
 
 # 🎯 Project Submission
 
-Submitted via [REMWaste Form](https://forms.gle/N6nKLgW8CMqZ2eFY8) on 📅 [Submission Date]
+Submitted via [REMWaste Form](https://forms.gle/N6nKLgW8CMqZ2eFY8) on 📅 [09-06-2025]
 
 **Candidate:** Elvin Vincent  
 **Position:** Full Stack Developer
