@@ -1,70 +1,109 @@
-# Getting Started with Create React App
+# 🗑️ REMWaste Skip Selector Redesign
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern redesign of REMWaste's skip selection interface with enhanced UX/UI.  
+Professional, responsive, and fully functional React implementation.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Key Features
 
-### `npm start`
+- **Interactive skip size selector** with visual feedback
+- **Real-time pricing** (incl. VAT calculations)
+- **Responsive design** (mobile, tablet & desktop)
+- **Size guide modal** for easy comparison
+- **Loading/error states** for API calls
+- **Professional animations** and transitions
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Tech Stack
 
-### `npm test`
+- **Frontend:** React 18
+- **Styling:** Tailwind CSS
+- **Icons:** React Icons
+- **API Client:** Axios
+- **Build Tool:** Vite
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 💻 Installation & Setup
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. **Clone the repository**  
+   `git clone https://github.com/Elvin-Vincent/REMWaste-Web-Redesign-.git`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. **Navigate to project directory**  
+   `cd REMWaste-Web-Redesign-`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. **Install dependencies**  
+   `npm install`
 
-### `npm run eject`
+4. **Run development server**  
+   `npm run dev`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+5. **Open in browser**  
+   Visit `http://localhost:5173`
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🌐 Live Previews
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Web Version
 
-## Learn More
+👉 **[CodeSandbox Demo](https://codesandbox.io/p/sandbox/remwaste-redesign-demo)**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Mobile Testing
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Open Chrome DevTools (`F12`)
+2. Toggle device toolbar (`Ctrl+Shift+M`)
+3. Select any mobile device
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🎨 Design Approach
 
-### Analyzing the Bundle Size
+1. **User Experience**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+   - Simplified selection process
+   - Clear pricing breakdown
+   - Visual size comparisons
 
-### Making a Progressive Web App
+2. **Technical Implementation**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+   - Component-based architecture
+   - Custom hooks for business logic
+   - Optimized API fetching
 
-### Advanced Configuration
+3. **Accessibility**
+   - Keyboard navigable
+   - ARIA labels
+   - Color contrast compliant
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## ✨ Future Enhancements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- [ ] User account integration
+- [ ] Booking calendar
+- [ ] Payment gateway
+- [ ] Dark mode support
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🤝 Contribution
+
+Pull requests welcome! Please:
+
+1. Fork the repository
+2. Create your feature branch
+3. Submit a PR with clear description
+
+Report bugs via [GitHub Issues](https://github.com/Elvin-Vincent/REMWaste-Web-Redesign-/issues)
+
+---
+
+# 🎯 Project Submission
+
+Submitted via [REMWaste Form](https://forms.gle/N6nKLgW8CMqZ2eFY8) on 📅 [Submission Date]
+
+**Candidate:** Elvin Vincent  
+**Position:** Full Stack Developer
